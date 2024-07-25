@@ -2,3 +2,5 @@ title: Fate/Stay Night [Realta Nua] 汉化制作介绍
 description: Still Building···
 show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
