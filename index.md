@@ -52,19 +52,19 @@ Fate Stay Night[Realta Nua] PSV版由角川游戏、HuneX代为制作，对比04
 
 （网名来源平台未定，先写在这里记录备用）
 
-感谢PSV汉化计划对该项目的帮助与支持，以及NS魔夜月姬汉化补丁制作组的经验分享与交流。
+感谢PSV汉化计划对该项目的帮助与支持，以及NS魔夜月姬汉化制作组的经验分享与交流。
 
-* 汉化来源：澄空学园，[月海工房](https://lm.works)
+* 汉化翻译来源：澄空学园，[月海工房](https://lm.works)
 
-* 文本替换：root_none，时雨，ko no dio 哒！，
+* 文本替换：root_none，时雨，ko no dio 哒！，……
 
-* 程序工作：root_none，denyu，
+* 程序工作：root_none，denyu，……
 
-* 文本校对：root_none，时雨，Yuzuki Yukari，↑↓
+* 文本校对：root_none，时雨，Yuzuki Yukari，烧饼，……
 
-* 图片美工：今晚上山打松鼠，Ho，
+* 图片美工：今晚上山打松鼠，ou，……
 
-也感谢本山源治、Femiya、晨等朋友曾经尝试提供的帮助。
+也感谢阡陌、本山源治、Femiya、晨、Ho等朋友曾经尝试提供的帮助。
 
 （人员名单待更新中，欢迎志同道合者的加入······）
 
