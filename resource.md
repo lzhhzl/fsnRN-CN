@@ -2,7 +2,7 @@
 layout: default
 ---
 
->  [FSN psv版测试用汉化补丁](https://1drv.ms/u/c/701e4c4531855d7b/ETbJ0Joub5ZGpbr-af1F7IwBJF-AO-BRyCWPa3NpUBXN0g?e=8yT4MB)
+>  [FSN psv版测试用汉化补丁(2024.8.6更新)](https://1drv.ms/u/c/701e4c4531855d7b/EWM0xLUiqJZMkVEkiK27wMEBNENAkT-HFK0X0QX8ToiH8A?e=Sxq418)
 
 >  [nyaa "Fate/stay night [Realta Nua] for Windows"](https://www.google.com/search?q=nyaa+%22Fate%2Fstay+night+%5BRealta+Nua%5D+for+Windows%22&oq=nyaa+%22Fate%2Fstay+night+%5BRealta+Nua%5D+for+Windows%22)
 
