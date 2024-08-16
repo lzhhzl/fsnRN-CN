@@ -69,4 +69,5 @@ Fate Stay Night[Realta Nua] PSV版由角川游戏、HuneX代为制作，对比04
 
 
 
-###### [archive resource](./resource.html)
+###### [archive ](./)     [resource](./resource.html)
+
