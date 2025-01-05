@@ -10,7 +10,7 @@ layout: default
 
 目前汉化补丁正在通过PC、KiriKiroid2、PSVita（或Vita3k）进行实机测试中，但本人因为能力和时间都有限，导致校对和测试工作进度缓慢，如有空余时间并愿意加入进来帮忙耐心校对的小伙伴可联系我 QQ:392245342
 
-### **汉化补丁制作的进度[点此查看](./tanslate_work.html)，关于更详细的Q&A请[点此查看](https://www.bilibili.com/opus/965970095149940739)**
+### **汉化补丁制作的进度[点此查看](./translate_work.html)，关于更详细的Q&A请[点此查看](https://www.bilibili.com/opus/965970095149940739)**
 
 Fate Stay Night[Realta Nua]-Ultimate Edition PC整合重制版
 ------------

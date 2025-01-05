@@ -14,7 +14,7 @@ layout: default
 
 ### 本页面仅为了预构建（不管你从哪里发现的），目前汉化补丁仍在制作中，完成时间不定，请友善催更
 
-### **汉化补丁制作的进度[点此查看](./tanslate_work.html)**
+### **汉化补丁制作的进度[点此查看](./translate_work.html)**
 
 Fate Stay Night[Realta Nua]-Ultimate Edition PC整合重制版
 ------------
